@@ -1,13 +1,13 @@
-## Terraform Concepts
+# Terraform Concepts
 
-1. Terraform Input Variables
-2. Terraform Datasources
-3. Terraform Output Values
+## 1. Terraform Input Variables
+## 2. Terraform Datasources
+## 3. Terraform Output Values
 
-4. Terraform Input Variable basics
-    AWS Region
-    Instance Type
-    Key Name
+## 4. Terraform Input Variable basics
+###    AWS Region
+###    Instance Type
+###    Key Name
 5. Defining Security Groups and Associate them as a List item to AWS EC2 Instance
     vpc-ssh
     vpc-web
