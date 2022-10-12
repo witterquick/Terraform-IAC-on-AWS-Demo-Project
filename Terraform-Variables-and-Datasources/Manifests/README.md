@@ -16,5 +16,6 @@
 -    Public DNS
 ### 7. Get latest EC2 AMI ID Using Terraform Datasources concept
 ### 8. Use existing EC2 Key pair terraform-key
+- Key to be invalid after running demo practice successfully.
 
 ### 9. Use all the above to create an EC2 Instance in default VPC
