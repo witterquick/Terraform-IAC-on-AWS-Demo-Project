@@ -3,6 +3,7 @@
 ## Objective: 
 ### Leveraging Terraform as Infrastructure-As-Code building and scaling an AWS EKS Cluster
 
+
 ## Terraform Concepts in Use
 
 ### 1. Terraform Input Variables
