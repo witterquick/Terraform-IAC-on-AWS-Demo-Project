@@ -1,7 +1,7 @@
-# Provsioning an AWS EKS Cluster with Terraform
+# AWS EKS Cluster with Terraform
 
 ## Objective: 
-### Leveraging Terraform as Infrastructure-As-Code building and scaling an AWS EKS Cluster
+### Leveraging Terraform as Infrastructure-as-Code to provision a hghly scalable AWS EKS Cluster.
 
 
 ## Terraform Concepts in Use
