@@ -1,7 +1,7 @@
 # AWS EKS Cluster with Terraform
 
 ## Objectives: 
-- Leveraging Terraform as Infrastructure-as-Code to provision a hghly scalable AWS EKS Cluster.
+- Leveraging Terraform as Infrastructure-as-Code to provision a highly scalable AWS EKS Cluster.
 - building an AWS VPC 3-Tier network with Terraform.
 - building an AWS EKS Cluster with Public and Private Node Groups with Terraform.
 - Implementing a Terraform Remote State Datasource.
